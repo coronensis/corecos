@@ -57,16 +57,16 @@ the Plasma CPU
 
 - Small library with some common primitives for access to OS, screen, keyboard,  etc.
 
-Implementation will happen around an FPGA and the constrains given are basically
+Implementation will happen around an FPGA and the constrains given are
 determined by what my FPGA development board (a Spartan 3 Starter Board) has to offer.
 
 Most of the components needed will be sourced from other open source projects, be it
-HDL or C source code. My contribution will be basically to find the right stuff and "glue"
+HDL or C source code. My contribution will be to find the right stuff and "glue"
 it all together, implementing whatever there will missing in the end.
 
 As for the naming: The project has nothing to do with Corona Data Systems (Cordata)
 but makes a reference to project's "birth"place. Corona is one of the historical names for
 the city of Brasov in Romania.
 
-This project is also a tribute to the [CoBra](http://cobrasov.com/CoBra%20Project/index.html) project.
+This project is a tribute to [CoBra](http://cobrasov.com/CoBra%20Project/index.html).
 
